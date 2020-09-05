@@ -7,3 +7,10 @@ blockquote {
 	padding: 0.25em;
 	text-align: center;
 }
+
+.tagline {
+	padding-top: 10px;
+    color: white;
+    line-height: 1.5em;
+    font-style: italic;
+}
